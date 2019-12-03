@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1030137192239",
+    "project_id": "mobile-number-tracker-4945f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030137192239:android:50e1d56d57d45925",
+        "android_client_info": {
+          "package_name": "com.mobilenumbertracker.mobilenumbertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030137192239-4al0ug54chas4nrampdql42agp4vp27s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1030137192239-irpd3so858f5muf9qcg8nn8v51pphmm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobilenumbertracker.mobilenumbertracker",
+            "certificate_hash": "6d4f6a67178cbdfd818de60323411679a5b79066"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrZp7VhPsn5X3cC1aukQ0rkZfpyIBcDg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
