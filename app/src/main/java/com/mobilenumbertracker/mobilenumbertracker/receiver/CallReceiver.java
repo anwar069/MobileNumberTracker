@@ -493,7 +493,7 @@ public class CallReceiver extends PhonecallReceiver {
         //		String BaseNameUrl ="http://api.mobilenumbertracker.com/v1/person/name/";
         String BaseNumberUrl = "http://api.mobilenumbertracker.com/v1/person/mobile/";
         String searchQuery;
-        String AuthToken = "A525CKA30B760953CC8018C57C49FDA8";
+        String AuthToken = "";
         URL url = null;
 
         public AsyncFetch(String searchQuery) {

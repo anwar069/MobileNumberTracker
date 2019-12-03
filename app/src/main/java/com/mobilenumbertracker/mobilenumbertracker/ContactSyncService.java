@@ -49,7 +49,7 @@ public class ContactSyncService extends IntentService {
     Cursor phones;
     ContentResolver resolver;
     private PrefManager prefManager;
-    private String postUrl = "http://api.mobilenumbertracker.com/v1/person/contacts/?auth_token=A525CKA30B760953CC8018C57C49FDA8";
+    private String postUrl = "http://api.mobilenumbertracker.com/v1/person/contacts/?auth_token=";
 
 
     private AsyncHttpClient aClient = new SyncHttpClient();
